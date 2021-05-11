@@ -1,0 +1,41 @@
+absl-py @ file:///D:/bld/absl-py_1598382479526/work
+astor @ file:///home/conda/feedstock_root/build_artifacts/astor_1593610464257/work
+certifi==2020.6.20
+click==7.1.2
+Flask==1.1.2
+gast @ file:///home/conda/feedstock_root/build_artifacts/gast_1596839682936/work
+google-pasta==0.2.0
+grpcio @ file:///D:/bld/grpcio_1596715850903/work
+gunicorn==20.1.0
+h5py @ file:///D:/bld/h5py_1595110299148/work
+importlib-metadata @ file:///D:/bld/importlib-metadata_1593211612489/work
+itsdangerous==1.1.0
+Jinja2==2.11.2
+joblib==1.0.1
+Keras==2.2.5
+Keras-Applications==1.0.8
+Keras-Preprocessing==1.1.0
+Markdown @ file:///home/conda/feedstock_root/build_artifacts/markdown_1589366472132/work
+MarkupSafe==1.1.1
+mkl-service==2.3.0
+numpy @ file:///D:/bld/numpy_1597938567428/work
+opencv-python==4.4.0.42
+pandas==1.1.1
+Pillow==7.2.0
+protobuf==3.13.0
+pyreadline==2.1
+python-dateutil==2.8.1
+pytz==2020.1
+PyYAML==5.3.1
+scikit-learn==0.24.2
+scipy @ file:///C:/ci/scipy_1597686737426/work
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1590081179328/work
+tensorboard==1.14.0
+tensorflow @ file:///D:/bld/tensorflow_1594833538462/work/tensorflow-1.14.0-cp37-cp37m-win_amd64.whl
+tensorflow-estimator==1.14.0
+termcolor==1.1.0
+threadpoolctl==2.1.0
+Werkzeug==1.0.1
+wincertstore==0.2
+wrapt==1.12.1
+zipp==3.1.0

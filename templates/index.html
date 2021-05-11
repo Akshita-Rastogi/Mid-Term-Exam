@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<body bgcolor="yellow">
+<center>
+<h2>Customer will join or leave bank  Prediction</h2>
+
+
+<form action="/result" method="POST">
+  <label >CreditScore:</label><br>
+  <input type="text" name="CreditScore" ><br>
+   <label >Geography:</label><br>
+  <select  name="Geography">
+      <option value="0">France</option>
+      <option value="1">Spain</option>
+      
+    </select>
+<br><br>
+  <label >Gender :</label>
+    <select  name="Gender">
+      <option value="1">Female</option>
+      <option value="0">Male</option>
+      
+    </select>
+    <br><br>
+  <label >Age:</label><br>
+  <input type="text"  name="Age" ><br><br>
+  <label >Tenure:</label><br>
+  <input type="text"  name="Tenure" ><br><br>
+  <label >Balance:</label><br>
+  <input type="text"  name="Balance" ><br><br>
+  <label >HasCrCard:</label><br>
+  <input type="text" name="HasCrCard" ><br><br>
+  <label >IsActiveMember:</label><br>
+  <input type="text"  name="IsActiveMember"><br><br>
+  <label >EstimatedSalary:</label><br>
+  <input type="text"  name="EstimatedSalary"><br><br>
+  <input type="submit" value="Predict">
+</form> 
+</center>
+</body>
+</html>
